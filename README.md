@@ -1,4 +1,5 @@
 # Operating-Systems---ISO-Root
+An ISO 9660 root directory analyzer. 
 
 The main purpose of this assignment was to learn about the ISO 9660 file system, and how to examine the directories and files stored in a Level 1 ISO 9660 image. 
 
